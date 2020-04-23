@@ -1,0 +1,161 @@
+Nhảy
+Nhảy ba bước
+Nhảy xa
+Nhảy cao
+Nhảy sào
+Chạy marathon
+Chạy nước rút
+Chạy cự ly trung bình
+Chạy cự ly dài
+Chạy tiếp sức
+Chạy vượt rào
+Chạy vượt chướng ngại vật
+Chạy việt dã
+Ném
+Ném đĩa
+Ném búa (tạ xích)
+Phóng lao (ném lao)
+Atlatl
+Đẩy tạ
+Đi bộ
+Đi bộ cự ly ngắn
+Đi bộ cự ly trung bình
+Đi bộ cự ly dài
+Đi bộ việt dã
+Đấu bò
+Đua lạc đà
+Cưỡi ngựa
+Cưỡi ngựa vượt chướng ngại vật
+Kĩ năng cưỡi ngựa (bao gồm nhảy qua lưng ngựa, trình diễn trên lưng ngựa và đua ngựa 3 ngày liên tiếp)
+Đua ngựa
+Đua ngựa có yên
+Đua chó
+Đua lợn
+Vovinam
+Vịnh Xuân quyền
+Judo
+Karate
+Kick boxing
+Kung-fu
+Muay Thai
+Pencak Silat
+Sumo
+Taekwondo
+Thái cực quyền
+Vật
+Võ thuật Việt Nam
+Wushu
+Kendo
+Aikido
+WWE
+Bicycle polo
+BMX racing
+Cycloball
+Cyclocross
+Mountain bicycling
+Mountain unicycling
+Road bicycle racing
+Track cycling
+Đua xe đạp lòng chảo
+Trượt ván (skateboard)
+Patanh
+Patanh một hàng bánh (Inline skate/Roller blading)
+Patanh hai hàng bánh
+Mô tô địa hình
+Ô tô địa hình
+Xe đạp địa hình
+Leo núi
+Leo tường
+Parkour
+Thể dục nghệ thuật
+Thể dục nhịp điệu
+Thể dục dụng cụ
+Thể dục tự do
+Xà đơn
+Xà kép
+Ngựa gỗ
+Vòng treo
+Ngựa tay quai
+Cầu thăng bằng
+Xà lệch
+Thể hình
+Thể thao tốc độ
+Đua ô tô
+Đua mô tô
+Đua xe công thức một
+Đua xe công thức hai
+Đua xe công thức ba
+Đua Motogp
+Nhảy dù
+Lướt sóng
+Cầu lông
+Bóng bàn
+Quần vợt
+Trượt băng nghệ thuật
+Khúc côn cầu trên băng
+Trượt băng trên bánh xe
+Trượt băng tốc độ
+Trượt tuyết đường núi
+Khúc côn cầu trên tuyết
+Trượt tuyết việt dã
+Trượt tuyết trên cỏ
+Trượt tuyết trên bánh xe
+Vận động trường
+Bóng chuyền bãi biển
+Bóng đá bãi biển
+Bóng ném bãi biển
+Bóng rổ bãi biển
+Khúc côn cầu bãi biển
+Bắn cung
+Bóng chuyền nam
+Bóng chuyền nữ
+Bắn súng
+Bắn nỏ
+Darts
+Bóng chày
+Cricket
+Bóng rổ
+Bóng đá
+Futsal (bóng đá trong nhà)
+Bóng ném
+Cầu mây
+Đá cầu
+Bóng bầu dục
+Khúc côn cầu (hockey)
+Bóng đá kiểu bầu dục
+Bơi
+Bóng nước
+Bơi Nghệ thuật (Synchronize swimming)
+Nhảy cầu
+Đua thuyền canoe và kayak
+Đua thuyền buồm
+Rowing
+Lặn biển
+Arimaa
+Backgammon
+Checkers
+Cờ cá ngựa
+Cờ Othello
+Cờ tướng
+Cờ vây
+Cờ vua
+Chess960 (Fischer Random Chess)
+Domino
+Draughts
+Renju
+Scrabble
+Shogi
+Năm môn phối hợp
+Ba môn phối hợp
+Hai môn phối hợp
+Mười môn phối hợp
+Billiards snooker
+Bowling
+Bóng mềm
+Câu cá thể thao
+Đánh gôn
+Bi sắt
+Bóng đá nam
+Bóng đá nữ
+bóng đá
+bóng chuyền
